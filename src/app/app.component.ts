@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  //test
   title = 'WOOWWW!!! WE ARE ON AZURE :)';
 }
